@@ -1,0 +1,21 @@
+{
+  "name": "pycon2025-theme",
+  "displayName": "pycon2025-theme",
+  "description": "Style your editor in the smooth orange, yellow and blue of PyCon US 2025!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PyConUS 2025 Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PyConUS 2025 Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
