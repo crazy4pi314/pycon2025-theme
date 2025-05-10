@@ -1,14 +1,29 @@
 {
   "name": "pycon2025-theme",
-  "displayName": "pycon2025-theme",
+  "displayName": "PyConUS 2025 Theme",
   "description": "Style your editor in the smooth orange, yellow and blue of PyCon US 2025!",
   "version": "0.0.1",
+  "publisher": "crazy4pi314",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "author": {
+    "name": "Sarah Kaiser"
+  },
+  "icon": "images/icon.png",
+  "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crazy4pi314/pycon2025-theme.git"
+  },
+  "homepage": "https://github.com/crazy4pi314/pycon2025-theme/blob/main/README.md",
   "categories": [
     "Themes"
   ],
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/crazy4pi314/pycon2025-theme/issues"
+  },
   "contributes": {
     "themes": [
       {
